@@ -21,12 +21,12 @@ Lets take an example :
     
  assume grid is :
      
-                                                                                                                           1  2  3  4  5
-                                                                                                                        1  a  b  c  d  e
-                                                                                                                        2  f  g  h  i  j
-                                                                                                                        3  k  l  m  n  o
-                                                                                                                        4  p  q  r  s  t
-                                                                                                                        5  u  v  w  x  y
+                                                                                                                     1  2  3  4  5
+                                                                                                                  1  a  b  c  d  e
+                                                                                                                  2  f  g  h  i  j
+                                                                                                                  3  k  l  m  n  o
+                                                                                                                  4  p  q  r  s  t
+                                                                                                                  5  u  v  w  x  y
     
   Consider your message is : Hello sam
    index for 'H' is 2,3
@@ -40,3 +40,4 @@ Lets take an example :
  so encrypted message is: 23 15 32 35 44 11 33
  
 similarly for decryption you have to provide key and index values, and code would be decrypt automatically.
+if you are more curious about how its happening, then you can visit this link- https://www.dcode.fr/polybius-cipher
