@@ -19,14 +19,14 @@ iv) And here is your encrypted message. specifying each letter with its co-ordin
 Lets take an example :
    lets after giving key grid has been generated (Here encoder have not to be worried about grid formation, it would be automatically        done after giving key)
     
-  assume grid is :
+ assume grid is :
      
-   1  2  3  4  5
- 1 a  b  c  d  e
- 2 f  g  h  i  j
- 3 k  l  m  n  o
- 4 p  q  r  s  t
- 5 u  v  w  x  y
+                                                                                                                           1  2  3  4  5
+                                                                                                                        1  a  b  c  d  e
+                                                                                                                        2  f  g  h  i  j
+                                                                                                                        3  k  l  m  n  o
+                                                                                                                        4  p  q  r  s  t
+                                                                                                                        5  u  v  w  x  y
     
   Consider your message is : Hello sam
    index for 'H' is 2,3
