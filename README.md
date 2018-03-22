@@ -10,10 +10,9 @@ Data would be feeded by a program by taking visual data through cctv camera fitt
  encryption is the process of encoding a message or information in such a way that only authorized parties can access it and those who are not authorized cannot.
 Here an encryption technique is used to encrypt the message, named "Polybius cipher".
 Following are some Features of this technique -:
-
-i) this consist of a 5X5 grid which contains 25 english alphabets out of 26 (here Z is excluded because its chance of occurence is very less in any message)
-ii) 25 letters are filled in grid in a specific manner which depends on a key given by encoder.(who is sending message)
-iii) after filling grid, every letter in message can be specified by its index value inside grid.
+ i) this consist of a 5X5 grid which contains 25 english alphabets out of 26 (here Z is excluded because its chance of occurence is very     less in any message)
+ ii) 25 letters are filled in grid in a specific manner which depends on a key given by encoder.(who is sending message)
+ iii) after filling grid, every letter in message can be specified by its index value inside grid.
 iv) And here is your encrypted message. specifying each letter with its co-ordinate value gives an encrypted message.
 
 Lets take an example :
