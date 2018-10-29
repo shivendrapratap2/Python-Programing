@@ -1,5 +1,5 @@
 # Python-Programing
-Some simple codes using Python 3 
+Some simple codes using Python 3.
 
 # intellegent parking system
 Gui For intelligent parking system Using Tkinter module
