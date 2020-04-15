@@ -1,12 +1,12 @@
-# Python-Programing
+## Python-Programing
 Some simple codes using Python 3.
 
-# intellegent parking system
+### intellegent parking system
 Gui For intelligent parking system Using Tkinter module
 this Gui would show no. of empty spots and filled spots along with current Time and date.
 Data would be feeded by a program by taking visual data through cctv camera fitted at parking.
 
-# Encrypt your message
+### Encrypt your message
  encryption is the process of encoding a message or information in such a way that only authorized parties can access it and those who are not authorized cannot.
 Here an encryption technique is used to encrypt the message, named "Polybius cipher".
 Following are some Features of this technique -:
